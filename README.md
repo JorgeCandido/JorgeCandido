@@ -1,10 +1,14 @@
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Hi there! I'm Jorge Candido 😀👋
+# Hi there! 😀👋
+### Nice to meet you, I'm Jorge Candido and a guy who loves technology! 👨‍💻
 
-I have a degree in Information Systems and I am looking for opportunities and collaboration in projects related to data engineering, data analyst and data science.
-- 🔭 Currently, I am improving, on a regular basis, my data structures and algorithm skills.
-- 🤝 Through courses and bootcamps, I am learning techniques and technologies used in the construction of a data pipeline (data flow) that involve processes of collection, preparation, processing, storage and access to data, where we also learn to design and implement data repositories. data using different technologies such as: python language, relational databases, NoSQL, file systems.
+- 🎓Graduated in Information Systems at UNESA.
+- 💻Experience: Systems Analysis, Cobol, Scrum, Kanban.
+- 📚I am learning: Data Engineering, Data Analyst, Data Science, Python, Html, Css and Javascript.
+- 🎯 Tenho interesse: Data Engineering, Data Analyst, Data Science, Python
+
+Learning is continuous, so there will always be a next level! 🚀
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JorgeCandido)
 
@@ -29,4 +33,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
