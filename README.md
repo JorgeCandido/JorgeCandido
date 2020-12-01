@@ -9,9 +9,10 @@ I have a degree in Information Systems and I am looking for opportunities and co
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JorgeCandido)
 
 🌎 Find me around the web 
-💼 https://www.linkedin.com/in/jorgecandido/ 
-📺 https://www.instagram.com/jorgecandido84/ 
-🐦 https://twitter.com/jorgecandido84
+
+- 💼 https://www.linkedin.com/in/jorgecandido/
+- 📺 https://www.instagram.com/jorgecandido84/ 
+- 🐦 https://twitter.com/jorgecandido84
 
 <!--
 ### Hi there 👋
