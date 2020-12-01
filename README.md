@@ -3,8 +3,8 @@
 ### Hi there! I'm Jorge Candido 😀👋
 
 I have a degree in Information Systems and I am looking for opportunities and collaboration in projects related to data engineering, data analyst and data science.
-- 🔭 Currently, I am improving, on a regular basis, my data structures and algorithm skills with courses and bootcamps.
-- 🤝 Currently, I am learning technical techniques and technologies used in the construction of the data pipeline (data flow) that involve processes of collecting, preparing, processing, storing and accessing data using Python and designing and implementing data repositories using different technologies. such as relational databases, NoSQL, file systems 
+- 🔭 Currently, I am improving, on a regular basis, my data structures and algorithm skills.
+- 🤝 Through courses and bootcamps, I am learning techniques and technologies used in the construction of a data pipeline (data flow) that involve processes of collection, preparation, processing, storage and access to data, where we also learn to design and implement data repositories. data using different technologies such as: python language, relational databases, NoSQL, file systems.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JorgeCandido)
 
