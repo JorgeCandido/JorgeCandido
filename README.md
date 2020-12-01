@@ -6,7 +6,7 @@
 - 🎓Graduated in Information Systems at UNESA.
 - 💻Experience: Systems Analysis, Cobol, Scrum, Kanban.
 - 📚I am learning: Data Engineering, Data Analyst, Data Science, Python, Html, Css and Javascript.
-- 🎯 Tenho interesse: Data Engineering, Data Analyst, Data Science, Python
+- 🎯 Tenho interesse: Python, Data Engineering, Data Analyst and Data Science, 
 
 Learning is continuous, so there will always be a next level! 🚀
 
