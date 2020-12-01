@@ -4,7 +4,7 @@
 ### Nice to meet you, I'm Jorge Candido and a guy who loves technology! 👨‍💻
 
 - 🎓Graduated in Information Systems at UNESA.
-- 💻Experience: Systems Analysis, Cobol, Scrum, Kanban.
+- 💻Experience: Systems Analysis, Cobol, Scrum, Kanban and DevOps.
 - 📚I am learning: Data Engineering, Data Analyst, Data Science, Python, Html, Css and Javascript.
 - 🎯 Tenho interesse: Python, Data Engineering, Data Analyst and Data Science, 
 
