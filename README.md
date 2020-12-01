@@ -1,10 +1,10 @@
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
 ### Hi there! I'm Jorge Candido 😀👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+
+I have a degree in Information Systems and I am looking for opportunities and collaboration in projects related to data engineering, data analyst and data science.
+- 🔭 Currently, I am improving, on a regular basis, my data structures and algorithm skills with courses and bootcamps.
+- 🤝 Currently, I am learning technical techniques and technologies used in the construction of the data pipeline (data flow) that involve processes of collecting, preparing, processing, storing and accessing data using Python and designing and implementing data repositories using different technologies. such as relational databases, NoSQL, file systems 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JorgeCandido)
 
